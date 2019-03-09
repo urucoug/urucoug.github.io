@@ -4,7 +4,7 @@ title: About
 ---
 ## About the website
 
-Just Plane Structures is an aerospace structural engineering blog. 
+/nJust Plane Structures is an aerospace structural engineering blog. 
 
 The pace at which projects must be turned in often gets in the way of exploring concepts more deeply, trying out different ideas, and expanding knowledge into areas that are not needed for current projects. This website is a vehicle for me to learn more. I share what I am learning with you, because the act of teaching and writing about something drives deeper learning.
 
@@ -15,7 +15,7 @@ This website is geared towards mechanical and aerospace engineers and advanced e
 
 ## About the author
 
-I've been excited about the idea of aircraft design since I was a kid. I graduated with a B.S. in Mechanical Engineering from Brigham Young University in 2010 and a M.S. in Mechanical Engineering from the University of Utah in 2014. I've worked in a variety of aerospace jobs since, serving in the US Air Force from 2010-2018, and now work in the private industry.
+/nI've been excited about the idea of aircraft design since I was a kid. I graduated with a B.S. in Mechanical Engineering from Brigham Young University in 2010 and a M.S. in Mechanical Engineering from the University of Utah in 2014. I've worked in a variety of aerospace jobs since, serving in the US Air Force from 2010-2018, and now work in the private industry.
 
 Please see [this link](https://www.linkedin.com/in/kevin-nufer/) for my LinkedIn profile.
 
