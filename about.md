@@ -6,7 +6,7 @@ title: About
 
 Just Plane Structures is an aerospace structural engineering blog. 
 
-The pace at which projects must be turned in often gets in the way of exploring concepts more deeply, trying out different ideas, and expanding knowledge into areas that are not needed for my current projects. This website is a vehicle for me to learn more. I share what I am learning with you, because the act of teaching and writing about something drives deeper learning.
+The pace at which projects must be turned in often gets in the way of exploring concepts more deeply, trying out different ideas, and expanding knowledge into areas that are not needed for current projects. This website is a vehicle for me to learn more. I share what I am learning with you, because the act of teaching and writing about something drives deeper learning.
 
 There are many great websites out there. If, in exploring a concept, I find that another website has already "hit the nail on the head," I will refer to that website. I will refer frequently to structures textbooks and articles that I consider to be "canon." I'm not sure how many of these equations and graphs I can put onto a website due to copyright issues, but I'll at least refer the reader to the section that I am using to come up with my numbers.
 
