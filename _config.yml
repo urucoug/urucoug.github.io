@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Just Plane Structures | An aerospace structural engineering blog
+description: "An aerospace structural engineering blog."
+url: "" # "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Kevin Nufer"
+  email: "kevin.nufer@gmail.com"
+  url: "" # "http://www.jacoporabolini.com"
 
 # Build settings
 baseurl: /urucoug.github.io # Change this to your relative path (ex: /blog/), or leave just a /
