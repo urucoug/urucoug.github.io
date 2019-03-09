@@ -1,11 +1,11 @@
 # Site settings
 title: Just Plane Structures | An aerospace structural engineering blog
 description: "An aerospace structural engineering blog."
-url: "" # "http://www.jacoporabolini.com/emerald"
+url: "" # "http://www.justplanestructures.com"
 author:
   name: "Kevin Nufer"
   email: "kevin.nufer@gmail.com"
-  url: "" # "http://www.jacoporabolini.com"
+  url: "" # "http://www.justplanestructures.com"
 
 # Build settings
 baseurl: /urucoug.github.io # Change this to your relative path (ex: /blog/), or leave just a /
