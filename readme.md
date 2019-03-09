@@ -29,7 +29,7 @@ You can set custom links, by putting in the ``<a>`` tag into the ``link.html`` f
 
 ### Branch
 Emerald has two branch: 
-- ``master``: is for developing pourpose.
+- ``master``: is for developing purpose.
 - ``gh-pages``: is only for demo site.  
 
 ### Baseurl
