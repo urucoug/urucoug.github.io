@@ -2,6 +2,8 @@
 layout: page
 title: List of topics
 ---
+## List of Topics
+
 Below are some topics that I've either written or plan to get into. If a link appears in the list, then I have written about it.
 
 ### Classical Stress Analysis topics
